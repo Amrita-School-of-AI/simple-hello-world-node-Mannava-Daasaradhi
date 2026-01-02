@@ -1,0 +1,10 @@
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/uninstall.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/ros2_hello_world_uninstall.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/hello_node.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/test.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/edit_cache.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/rebuild_cache.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/list_install_components.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/install.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/install/local.dir
+/home/mannava/Desktop/simple-hello-world-node-Mannava-Daasaradhi/build/ros2_hello_world/CMakeFiles/install/strip.dir
